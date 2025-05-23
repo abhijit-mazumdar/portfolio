@@ -1,5 +1,7 @@
 # Financial Predictive Analytics Dashboard
 
+Link: https://claude.ai/public/artifacts/306592eb-5fa9-428d-8528-a06bbb15dc64
+
 Key Features Demonstrated:
 
 🤖 Multiple ML Models
