@@ -1,6 +1,7 @@
-Financial Predictive Analytics Dashboard
+# Financial Predictive Analytics Dashboard
 
 Key Features Demonstrated:
+
 🤖 Multiple ML Models
 
 LSTM Neural Networks for time series prediction
